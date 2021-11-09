@@ -1,2 +1,2 @@
-# data-visualization-projects
-This repository contains most of the data visualizations projects that I completed as part of the two data science courses at Durham College.
+# Story from Data
+I aim to improve my storytelling with data skills and one might be able to see me progress in this repository.
