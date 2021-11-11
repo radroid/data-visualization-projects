@@ -1,0 +1,137 @@
+Country,Skill,2014,2015,2016
+Australia,Algorithm Design,26.0,13.0,9.0
+Australia,Business Intelligence,6.0,21.0,11.0
+Australia,Data Engineering and Data Warehousing,15.0,17.0,11.0
+Australia,Database Management and Software,24.0,26.0,11.0
+Australia,Perl/Python/Ruby,8.0,10.0,11.0
+Australia,Statistical Analysis and Data Mining,1.0,1.0,1.0
+Australia,Storage Systems and Management,4.0,8.0,11.0
+Australia,User Interface Design,18.0,9.0,7.0
+Australia,Web Architecture and Development Framework,14.0,16.0,8.0
+Brazil,Business Intelligence,8.0,14.0,11.0
+Brazil,Data Engineering and Data Warehousing,10.0,7.0,11.0
+Brazil,Database Management and Software,25.0,26.0,11.0
+Brazil,Perl/Python/Ruby,15.0,19.0,11.0
+Brazil,Statistical Analysis and Data Mining,1.0,1.0,1.0
+Brazil,Storage Systems and Management,5.0,4.0,5.0
+Brazil,User Interface Design,16.0,12.0,9.0
+Brazil,Web Architecture and Development Framework,3.0,5.0,2.0
+Canada,Algorithm Design,18.0,19.0,11.0
+Canada,Business Intelligence,8.0,20.0,11.0
+Canada,Data Engineering and Data Warehousing,17.0,9.0,6.0
+Canada,Data Presentation,14.0,26.0,11.0
+Canada,Perl/Python/Ruby,10.0,12.0,11.0
+Canada,Statistical Analysis and Data Mining,1.0,1.0,1.0
+Canada,Storage Systems and Management,2.0,3.0,5.0
+Canada,User Interface Design,20.0,11.0,7.0
+Canada,Web Architecture and Development Framework,15.0,5.0,9.0
+China,Business Intelligence,26.0,12.0,8.0
+China,Cloud and Distributed Computing,26.0,3.0,4.0
+China,Data Engineering and Data Warehousing,26.0,14.0,11.0
+China,Database Management and Software,26.0,19.0,11.0
+China,Statistical Analysis and Data Mining,26.0,2.0,3.0
+China,Storage Systems and Management,26.0,8.0,10.0
+China,User Interface Design,26.0,22.0,11.0
+China,Web Architecture and Development Framework,26.0,11.0,11.0
+France,Algorithm Design,19.0,26.0,11.0
+France,Business Intelligence,7.0,26.0,11.0
+France,Cloud and Distributed Computing,2.0,1.0,1.0
+France,Data Engineering and Data Warehousing,26.0,9.0,8.0
+France,Data Presentation,26.0,25.0,11.0
+France,Database Management and Software,26.0,14.0,11.0
+France,Financial Analysis and Modeling,11.0,26.0,11.0
+France,Perl/Python/Ruby,21.0,13.0,11.0
+France,Statistical Analysis and Data Mining,1.0,2.0,2.0
+France,User Interface Design,26.0,7.0,6.0
+France,Web Architecture and Development Framework,26.0,22.0,11.0
+Germany,Business Intelligence,26.0,25.0,11.0
+Germany,Cloud and Distributed Computing,26.0,1.0,1.0
+Germany,Data Engineering and Data Warehousing,26.0,9.0,5.0
+Germany,Data Presentation,26.0,23.0,11.0
+Germany,Database Management and Software,26.0,7.0,6.0
+Germany,Perl/Python/Ruby,26.0,20.0,11.0
+Germany,Statistical Analysis and Data Mining,26.0,4.0,2.0
+Germany,User Interface Design,26.0,16.0,11.0
+Germany,Web Architecture and Development Framework,26.0,13.0,11.0
+Global,Algorithm Design,9.0,12.0,11.0
+Global,Business Intelligence,6.0,18.0,11.0
+Global,Cloud and Distributed Computing,26.0,1.0,1.0
+Global,Data Engineering and Data Warehousing,11.0,11.0,11.0
+Global,Data Presentation,26.0,26.0,8.0
+Global,Database Management and Software,26.0,21.0,11.0
+Global,Perl/Python/Ruby,10.0,13.0,11.0
+Global,Statistical Analysis and Data Mining,1.0,2.0,2.0
+Global,Storage Systems and Management,3.0,8.0,10.0
+Global,User Interface Design,14.0,10.0,5.0
+Global,Web Architecture and Development Framework,8.0,9.0,3.0
+India,Algorithm Design,7.0,5.0,6.0
+India,Business Intelligence,18.0,26.0,11.0
+India,Cloud and Distributed Computing,3.0,1.0,1.0
+India,Data Engineering and Data Warehousing,19.0,21.0,11.0
+India,Data Presentation,12.0,13.0,11.0
+India,Perl/Python/Ruby,8.0,9.0,11.0
+India,Statistical Analysis and Data Mining,1.0,2.0,5.0
+India,Storage Systems and Management,2.0,3.0,4.0
+India,User Interface Design,11.0,4.0,2.0
+India,Web Architecture and Development Framework,9.0,8.0,3.0
+Ireland,Algorithm Design,26.0,13.0,11.0
+Ireland,Business Intelligence,26.0,24.0,11.0
+Ireland,Cloud and Distributed Computing,26.0,1.0,1.0
+Ireland,Data Engineering and Data Warehousing,26.0,7.0,11.0
+Ireland,Data Presentation,26.0,12.0,11.0
+Ireland,Database Management and Software,26.0,23.0,11.0
+Ireland,Perl/Python/Ruby,26.0,17.0,11.0
+Ireland,Statistical Analysis and Data Mining,26.0,2.0,2.0
+Ireland,User Interface Design,26.0,18.0,11.0
+Ireland,Web Architecture and Development Framework,26.0,6.0,3.0
+Netherlands,Algorithm Design,26.0,21.0,11.0
+Netherlands,Business Intelligence,3.0,24.0,11.0
+Netherlands,Data Engineering and Data Warehousing,20.0,3.0,4.0
+Netherlands,Data Presentation,15.0,17.0,11.0
+Netherlands,Database Management and Software,24.0,20.0,11.0
+Netherlands,Perl/Python/Ruby,8.0,16.0,11.0
+Netherlands,Statistical Analysis and Data Mining,1.0,1.0,1.0
+Netherlands,Storage Systems and Management,4.0,12.0,11.0
+Netherlands,Web Architecture and Development Framework,6.0,15.0,11.0
+Singapore,Algorithm Design,26.0,8.0,7.0
+Singapore,Cloud and Distributed Computing,26.0,1.0,1.0
+Singapore,Data Engineering and Data Warehousing,26.0,21.0,11.0
+Singapore,Perl/Python/Ruby,26.0,13.0,11.0
+Singapore,Statistical Analysis and Data Mining,26.0,3.0,4.0
+Singapore,Storage Systems and Management,26.0,11.0,10.0
+Singapore,User Interface Design,26.0,18.0,11.0
+Singapore,Web Architecture and Development Framework,26.0,22.0,11.0
+South Africa,Business Intelligence,6.0,15.0,11.0
+South Africa,Data Engineering and Data Warehousing,14.0,16.0,11.0
+South Africa,Database Management and Software,24.0,17.0,11.0
+South Africa,Perl/Python/Ruby,9.0,7.0,5.0
+South Africa,Statistical Analysis and Data Mining,1.0,1.0,1.0
+South Africa,Storage Systems and Management,2.0,6.0,11.0
+South Africa,User Interface Design,10.0,10.0,6.0
+South Africa,Web Architecture and Development Framework,15.0,8.0,8.0
+United Arab Emirates,Algorithm Design,6.0,3.0,3.0
+United Arab Emirates,Data Engineering and Data Warehousing,14.0,25.0,11.0
+United Arab Emirates,Database and Direct Marketing,24.0,26.0,11.0
+United Arab Emirates,Statistical Analysis and Data Mining,1.0,1.0,1.0
+United Arab Emirates,Storage Systems and Management,3.0,10.0,11.0
+United Arab Emirates,User Interface Design,16.0,9.0,7.0
+United Arab Emirates,Web Architecture and Development Framework,10.0,6.0,4.0
+United Kingdom,Algorithm Design,15.0,10.0,11.0
+United Kingdom,Business Intelligence,3.0,22.0,11.0
+United Kingdom,Data Engineering and Data Warehousing,21.0,9.0,10.0
+United Kingdom,Data Presentation,11.0,7.0,9.0
+United Kingdom,Database Management and Software,22.0,16.0,11.0
+United Kingdom,Perl/Python/Ruby,5.0,12.0,6.0
+United Kingdom,Statistical Analysis and Data Mining,1.0,1.0,1.0
+United Kingdom,Storage Systems and Management,4.0,11.0,11.0
+United Kingdom,User Interface Design,25.0,19.0,11.0
+United Kingdom,Web Architecture and Development Framework,12.0,3.0,4.0
+United States,Algorithm Design,11.0,8.0,9.0
+United States,Business Intelligence,21.0,23.0,11.0
+United States,Cloud and Distributed Computing,1.0,1.0,1.0
+United States,Data Engineering and Data Warehousing,14.0,15.0,11.0
+United States,Perl/Python/Ruby,10.0,13.0,11.0
+United States,Statistical Analysis and Data Mining,2.0,2.0,2.0
+United States,Storage Systems and Management,7.0,6.0,4.0
+United States,User Interface Design,16.0,7.0,5.0
+United States,Web Architecture and Development Framework,17.0,10.0,8.0
