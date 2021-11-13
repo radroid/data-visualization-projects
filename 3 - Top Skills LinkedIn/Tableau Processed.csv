@@ -1,0 +1,409 @@
+﻿Country,Skill,Year,Rank,tier
+Australia,Algorithm Design,2014,,Processing
+Australia,Business Intelligence,2014,6,Presenting
+Australia,Data Engineering and Data Warehousing,2014,15,Collecting
+Australia,Database Management and Software,2014,24,Collecting
+Australia,Perl/Python/Ruby,2014,8,Processing
+Australia,Statistical Analysis and Data Mining,2014,1,Processing
+Australia,Storage Systems and Management,2014,4,Collecting
+Australia,User Interface Design,2014,18,Presenting
+Australia,Web Architecture and Development Framework,2014,14,Presenting
+Brazil,Business Intelligence,2014,8,Presenting
+Brazil,Data Engineering and Data Warehousing,2014,10,Collecting
+Brazil,Database Management and Software,2014,25,Collecting
+Brazil,Perl/Python/Ruby,2014,15,Processing
+Brazil,Statistical Analysis and Data Mining,2014,1,Processing
+Brazil,Storage Systems and Management,2014,5,Collecting
+Brazil,User Interface Design,2014,16,Presenting
+Brazil,Web Architecture and Development Framework,2014,3,Presenting
+Canada,Algorithm Design,2014,18,Processing
+Canada,Business Intelligence,2014,8,Presenting
+Canada,Data Engineering and Data Warehousing,2014,17,Collecting
+Canada,Data Presentation,2014,14,Presenting
+Canada,Perl/Python/Ruby,2014,10,Processing
+Canada,Statistical Analysis and Data Mining,2014,1,Processing
+Canada,Storage Systems and Management,2014,2,Collecting
+Canada,User Interface Design,2014,20,Presenting
+Canada,Web Architecture and Development Framework,2014,15,Presenting
+China,Business Intelligence,2014,,Presenting
+China,Cloud and Distributed Computing,2014,,Presenting
+China,Data Engineering and Data Warehousing,2014,,Collecting
+China,Database Management and Software,2014,,Collecting
+China,Statistical Analysis and Data Mining,2014,,Processing
+China,Storage Systems and Management,2014,,Collecting
+China,User Interface Design,2014,,Presenting
+China,Web Architecture and Development Framework,2014,,Presenting
+France,Algorithm Design,2014,19,Processing
+France,Business Intelligence,2014,7,Presenting
+France,Cloud and Distributed Computing,2014,2,Presenting
+France,Data Engineering and Data Warehousing,2014,,Collecting
+France,Data Presentation,2014,,Presenting
+France,Database Management and Software,2014,,Collecting
+France,Financial Analysis and Modeling,2014,11,Processing
+France,Perl/Python/Ruby,2014,21,Processing
+France,Statistical Analysis and Data Mining,2014,1,Processing
+France,User Interface Design,2014,,Presenting
+France,Web Architecture and Development Framework,2014,,Presenting
+Germany,Business Intelligence,2014,,Presenting
+Germany,Cloud and Distributed Computing,2014,,Presenting
+Germany,Data Engineering and Data Warehousing,2014,,Collecting
+Germany,Data Presentation,2014,,Presenting
+Germany,Database Management and Software,2014,,Collecting
+Germany,Perl/Python/Ruby,2014,,Processing
+Germany,Statistical Analysis and Data Mining,2014,,Processing
+Germany,User Interface Design,2014,,Presenting
+Germany,Web Architecture and Development Framework,2014,,Presenting
+Global,Algorithm Design,2014,9,Processing
+Global,Business Intelligence,2014,6,Presenting
+Global,Cloud and Distributed Computing,2014,,Presenting
+Global,Data Engineering and Data Warehousing,2014,11,Collecting
+Global,Data Presentation,2014,,Presenting
+Global,Database Management and Software,2014,,Collecting
+Global,Perl/Python/Ruby,2014,10,Processing
+Global,Statistical Analysis and Data Mining,2014,1,Processing
+Global,Storage Systems and Management,2014,3,Collecting
+Global,User Interface Design,2014,14,Presenting
+Global,Web Architecture and Development Framework,2014,8,Presenting
+India,Algorithm Design,2014,7,Processing
+India,Business Intelligence,2014,18,Presenting
+India,Cloud and Distributed Computing,2014,3,Presenting
+India,Data Engineering and Data Warehousing,2014,19,Collecting
+India,Data Presentation,2014,12,Presenting
+India,Perl/Python/Ruby,2014,8,Processing
+India,Statistical Analysis and Data Mining,2014,1,Processing
+India,Storage Systems and Management,2014,2,Collecting
+India,User Interface Design,2014,11,Presenting
+India,Web Architecture and Development Framework,2014,9,Presenting
+Ireland,Algorithm Design,2014,,Processing
+Ireland,Business Intelligence,2014,,Presenting
+Ireland,Cloud and Distributed Computing,2014,,Presenting
+Ireland,Data Engineering and Data Warehousing,2014,,Collecting
+Ireland,Data Presentation,2014,,Presenting
+Ireland,Database Management and Software,2014,,Collecting
+Ireland,Perl/Python/Ruby,2014,,Processing
+Ireland,Statistical Analysis and Data Mining,2014,,Processing
+Ireland,User Interface Design,2014,,Presenting
+Ireland,Web Architecture and Development Framework,2014,,Presenting
+Netherlands,Algorithm Design,2014,,Processing
+Netherlands,Business Intelligence,2014,3,Presenting
+Netherlands,Data Engineering and Data Warehousing,2014,20,Collecting
+Netherlands,Data Presentation,2014,15,Presenting
+Netherlands,Database Management and Software,2014,24,Collecting
+Netherlands,Perl/Python/Ruby,2014,8,Processing
+Netherlands,Statistical Analysis and Data Mining,2014,1,Processing
+Netherlands,Storage Systems and Management,2014,4,Collecting
+Netherlands,Web Architecture and Development Framework,2014,6,Presenting
+Singapore,Algorithm Design,2014,,Processing
+Singapore,Cloud and Distributed Computing,2014,,Presenting
+Singapore,Data Engineering and Data Warehousing,2014,,Collecting
+Singapore,Perl/Python/Ruby,2014,,Processing
+Singapore,Statistical Analysis and Data Mining,2014,,Processing
+Singapore,Storage Systems and Management,2014,,Collecting
+Singapore,User Interface Design,2014,,Presenting
+Singapore,Web Architecture and Development Framework,2014,,Presenting
+South Africa,Business Intelligence,2014,6,Presenting
+South Africa,Data Engineering and Data Warehousing,2014,14,Collecting
+South Africa,Database Management and Software,2014,24,Collecting
+South Africa,Perl/Python/Ruby,2014,9,Processing
+South Africa,Statistical Analysis and Data Mining,2014,1,Processing
+South Africa,Storage Systems and Management,2014,2,Collecting
+South Africa,User Interface Design,2014,10,Presenting
+South Africa,Web Architecture and Development Framework,2014,15,Presenting
+United Arab Emirates,Algorithm Design,2014,6,Processing
+United Arab Emirates,Data Engineering and Data Warehousing,2014,14,Collecting
+United Arab Emirates,Database and Direct Marketing,2014,24,Collecting
+United Arab Emirates,Statistical Analysis and Data Mining,2014,1,Processing
+United Arab Emirates,Storage Systems and Management,2014,3,Collecting
+United Arab Emirates,User Interface Design,2014,16,Presenting
+United Arab Emirates,Web Architecture and Development Framework,2014,10,Presenting
+United Kingdom,Algorithm Design,2014,15,Processing
+United Kingdom,Business Intelligence,2014,3,Presenting
+United Kingdom,Data Engineering and Data Warehousing,2014,21,Collecting
+United Kingdom,Data Presentation,2014,11,Presenting
+United Kingdom,Database Management and Software,2014,22,Collecting
+United Kingdom,Perl/Python/Ruby,2014,5,Processing
+United Kingdom,Statistical Analysis and Data Mining,2014,1,Processing
+United Kingdom,Storage Systems and Management,2014,4,Collecting
+United Kingdom,User Interface Design,2014,25,Presenting
+United Kingdom,Web Architecture and Development Framework,2014,12,Presenting
+United States,Algorithm Design,2014,11,Processing
+United States,Business Intelligence,2014,21,Presenting
+United States,Cloud and Distributed Computing,2014,1,Presenting
+United States,Data Engineering and Data Warehousing,2014,14,Collecting
+United States,Perl/Python/Ruby,2014,10,Processing
+United States,Statistical Analysis and Data Mining,2014,2,Processing
+United States,Storage Systems and Management,2014,7,Collecting
+United States,User Interface Design,2014,16,Presenting
+United States,Web Architecture and Development Framework,2014,17,Presenting
+Australia,Algorithm Design,2015,13,Processing
+Australia,Business Intelligence,2015,21,Presenting
+Australia,Data Engineering and Data Warehousing,2015,17,Collecting
+Australia,Database Management and Software,2015,,Collecting
+Australia,Perl/Python/Ruby,2015,10,Processing
+Australia,Statistical Analysis and Data Mining,2015,1,Processing
+Australia,Storage Systems and Management,2015,8,Collecting
+Australia,User Interface Design,2015,9,Presenting
+Australia,Web Architecture and Development Framework,2015,16,Presenting
+Brazil,Business Intelligence,2015,14,Presenting
+Brazil,Data Engineering and Data Warehousing,2015,7,Collecting
+Brazil,Database Management and Software,2015,,Collecting
+Brazil,Perl/Python/Ruby,2015,19,Processing
+Brazil,Statistical Analysis and Data Mining,2015,1,Processing
+Brazil,Storage Systems and Management,2015,4,Collecting
+Brazil,User Interface Design,2015,12,Presenting
+Brazil,Web Architecture and Development Framework,2015,5,Presenting
+Canada,Algorithm Design,2015,19,Processing
+Canada,Business Intelligence,2015,20,Presenting
+Canada,Data Engineering and Data Warehousing,2015,9,Collecting
+Canada,Data Presentation,2015,,Presenting
+Canada,Perl/Python/Ruby,2015,12,Processing
+Canada,Statistical Analysis and Data Mining,2015,1,Processing
+Canada,Storage Systems and Management,2015,3,Collecting
+Canada,User Interface Design,2015,11,Presenting
+Canada,Web Architecture and Development Framework,2015,5,Presenting
+China,Business Intelligence,2015,12,Presenting
+China,Cloud and Distributed Computing,2015,3,Presenting
+China,Data Engineering and Data Warehousing,2015,14,Collecting
+China,Database Management and Software,2015,19,Collecting
+China,Statistical Analysis and Data Mining,2015,2,Processing
+China,Storage Systems and Management,2015,8,Collecting
+China,User Interface Design,2015,22,Presenting
+China,Web Architecture and Development Framework,2015,11,Presenting
+France,Algorithm Design,2015,,Processing
+France,Business Intelligence,2015,,Presenting
+France,Cloud and Distributed Computing,2015,1,Presenting
+France,Data Engineering and Data Warehousing,2015,9,Collecting
+France,Data Presentation,2015,25,Presenting
+France,Database Management and Software,2015,14,Collecting
+France,Financial Analysis and Modeling,2015,,Processing
+France,Perl/Python/Ruby,2015,13,Processing
+France,Statistical Analysis and Data Mining,2015,2,Processing
+France,User Interface Design,2015,7,Presenting
+France,Web Architecture and Development Framework,2015,22,Presenting
+Germany,Business Intelligence,2015,25,Presenting
+Germany,Cloud and Distributed Computing,2015,1,Presenting
+Germany,Data Engineering and Data Warehousing,2015,9,Collecting
+Germany,Data Presentation,2015,23,Presenting
+Germany,Database Management and Software,2015,7,Collecting
+Germany,Perl/Python/Ruby,2015,20,Processing
+Germany,Statistical Analysis and Data Mining,2015,4,Processing
+Germany,User Interface Design,2015,16,Presenting
+Germany,Web Architecture and Development Framework,2015,13,Presenting
+Global,Algorithm Design,2015,12,Processing
+Global,Business Intelligence,2015,18,Presenting
+Global,Cloud and Distributed Computing,2015,1,Presenting
+Global,Data Engineering and Data Warehousing,2015,11,Collecting
+Global,Data Presentation,2015,,Presenting
+Global,Database Management and Software,2015,21,Collecting
+Global,Perl/Python/Ruby,2015,13,Processing
+Global,Statistical Analysis and Data Mining,2015,2,Processing
+Global,Storage Systems and Management,2015,8,Collecting
+Global,User Interface Design,2015,10,Presenting
+Global,Web Architecture and Development Framework,2015,9,Presenting
+India,Algorithm Design,2015,5,Processing
+India,Business Intelligence,2015,,Presenting
+India,Cloud and Distributed Computing,2015,1,Presenting
+India,Data Engineering and Data Warehousing,2015,21,Collecting
+India,Data Presentation,2015,13,Presenting
+India,Perl/Python/Ruby,2015,9,Processing
+India,Statistical Analysis and Data Mining,2015,2,Processing
+India,Storage Systems and Management,2015,3,Collecting
+India,User Interface Design,2015,4,Presenting
+India,Web Architecture and Development Framework,2015,8,Presenting
+Ireland,Algorithm Design,2015,13,Processing
+Ireland,Business Intelligence,2015,24,Presenting
+Ireland,Cloud and Distributed Computing,2015,1,Presenting
+Ireland,Data Engineering and Data Warehousing,2015,7,Collecting
+Ireland,Data Presentation,2015,12,Presenting
+Ireland,Database Management and Software,2015,23,Collecting
+Ireland,Perl/Python/Ruby,2015,17,Processing
+Ireland,Statistical Analysis and Data Mining,2015,2,Processing
+Ireland,User Interface Design,2015,18,Presenting
+Ireland,Web Architecture and Development Framework,2015,6,Presenting
+Netherlands,Algorithm Design,2015,21,Processing
+Netherlands,Business Intelligence,2015,24,Presenting
+Netherlands,Data Engineering and Data Warehousing,2015,3,Collecting
+Netherlands,Data Presentation,2015,17,Presenting
+Netherlands,Database Management and Software,2015,20,Collecting
+Netherlands,Perl/Python/Ruby,2015,16,Processing
+Netherlands,Statistical Analysis and Data Mining,2015,1,Processing
+Netherlands,Storage Systems and Management,2015,12,Collecting
+Netherlands,Web Architecture and Development Framework,2015,15,Presenting
+Singapore,Algorithm Design,2015,8,Processing
+Singapore,Cloud and Distributed Computing,2015,1,Presenting
+Singapore,Data Engineering and Data Warehousing,2015,21,Collecting
+Singapore,Perl/Python/Ruby,2015,13,Processing
+Singapore,Statistical Analysis and Data Mining,2015,3,Processing
+Singapore,Storage Systems and Management,2015,11,Collecting
+Singapore,User Interface Design,2015,18,Presenting
+Singapore,Web Architecture and Development Framework,2015,22,Presenting
+South Africa,Business Intelligence,2015,15,Presenting
+South Africa,Data Engineering and Data Warehousing,2015,16,Collecting
+South Africa,Database Management and Software,2015,17,Collecting
+South Africa,Perl/Python/Ruby,2015,7,Processing
+South Africa,Statistical Analysis and Data Mining,2015,1,Processing
+South Africa,Storage Systems and Management,2015,6,Collecting
+South Africa,User Interface Design,2015,10,Presenting
+South Africa,Web Architecture and Development Framework,2015,8,Presenting
+United Arab Emirates,Algorithm Design,2015,3,Processing
+United Arab Emirates,Data Engineering and Data Warehousing,2015,25,Collecting
+United Arab Emirates,Database and Direct Marketing,2015,,Collecting
+United Arab Emirates,Statistical Analysis and Data Mining,2015,1,Processing
+United Arab Emirates,Storage Systems and Management,2015,10,Collecting
+United Arab Emirates,User Interface Design,2015,9,Presenting
+United Arab Emirates,Web Architecture and Development Framework,2015,6,Presenting
+United Kingdom,Algorithm Design,2015,10,Processing
+United Kingdom,Business Intelligence,2015,22,Presenting
+United Kingdom,Data Engineering and Data Warehousing,2015,9,Collecting
+United Kingdom,Data Presentation,2015,7,Presenting
+United Kingdom,Database Management and Software,2015,16,Collecting
+United Kingdom,Perl/Python/Ruby,2015,12,Processing
+United Kingdom,Statistical Analysis and Data Mining,2015,1,Processing
+United Kingdom,Storage Systems and Management,2015,11,Collecting
+United Kingdom,User Interface Design,2015,19,Presenting
+United Kingdom,Web Architecture and Development Framework,2015,3,Presenting
+United States,Algorithm Design,2015,8,Processing
+United States,Business Intelligence,2015,23,Presenting
+United States,Cloud and Distributed Computing,2015,1,Presenting
+United States,Data Engineering and Data Warehousing,2015,15,Collecting
+United States,Perl/Python/Ruby,2015,13,Processing
+United States,Statistical Analysis and Data Mining,2015,2,Processing
+United States,Storage Systems and Management,2015,6,Collecting
+United States,User Interface Design,2015,7,Presenting
+United States,Web Architecture and Development Framework,2015,10,Presenting
+Australia,Algorithm Design,2016,9,Processing
+Australia,Business Intelligence,2016,,Presenting
+Australia,Data Engineering and Data Warehousing,2016,,Collecting
+Australia,Database Management and Software,2016,,Collecting
+Australia,Perl/Python/Ruby,2016,,Processing
+Australia,Statistical Analysis and Data Mining,2016,1,Processing
+Australia,Storage Systems and Management,2016,,Collecting
+Australia,User Interface Design,2016,7,Presenting
+Australia,Web Architecture and Development Framework,2016,8,Presenting
+Brazil,Business Intelligence,2016,,Presenting
+Brazil,Data Engineering and Data Warehousing,2016,,Collecting
+Brazil,Database Management and Software,2016,,Collecting
+Brazil,Perl/Python/Ruby,2016,,Processing
+Brazil,Statistical Analysis and Data Mining,2016,1,Processing
+Brazil,Storage Systems and Management,2016,5,Collecting
+Brazil,User Interface Design,2016,9,Presenting
+Brazil,Web Architecture and Development Framework,2016,2,Presenting
+Canada,Algorithm Design,2016,,Processing
+Canada,Business Intelligence,2016,,Presenting
+Canada,Data Engineering and Data Warehousing,2016,6,Collecting
+Canada,Data Presentation,2016,,Presenting
+Canada,Perl/Python/Ruby,2016,,Processing
+Canada,Statistical Analysis and Data Mining,2016,1,Processing
+Canada,Storage Systems and Management,2016,5,Collecting
+Canada,User Interface Design,2016,7,Presenting
+Canada,Web Architecture and Development Framework,2016,9,Presenting
+China,Business Intelligence,2016,8,Presenting
+China,Cloud and Distributed Computing,2016,4,Presenting
+China,Data Engineering and Data Warehousing,2016,,Collecting
+China,Database Management and Software,2016,,Collecting
+China,Statistical Analysis and Data Mining,2016,3,Processing
+China,Storage Systems and Management,2016,10,Collecting
+China,User Interface Design,2016,,Presenting
+China,Web Architecture and Development Framework,2016,,Presenting
+France,Algorithm Design,2016,,Processing
+France,Business Intelligence,2016,,Presenting
+France,Cloud and Distributed Computing,2016,1,Presenting
+France,Data Engineering and Data Warehousing,2016,8,Collecting
+France,Data Presentation,2016,,Presenting
+France,Database Management and Software,2016,,Collecting
+France,Financial Analysis and Modeling,2016,,Processing
+France,Perl/Python/Ruby,2016,,Processing
+France,Statistical Analysis and Data Mining,2016,2,Processing
+France,User Interface Design,2016,6,Presenting
+France,Web Architecture and Development Framework,2016,,Presenting
+Germany,Business Intelligence,2016,,Presenting
+Germany,Cloud and Distributed Computing,2016,1,Presenting
+Germany,Data Engineering and Data Warehousing,2016,5,Collecting
+Germany,Data Presentation,2016,,Presenting
+Germany,Database Management and Software,2016,6,Collecting
+Germany,Perl/Python/Ruby,2016,,Processing
+Germany,Statistical Analysis and Data Mining,2016,2,Processing
+Germany,User Interface Design,2016,,Presenting
+Germany,Web Architecture and Development Framework,2016,,Presenting
+Global,Algorithm Design,2016,,Processing
+Global,Business Intelligence,2016,,Presenting
+Global,Cloud and Distributed Computing,2016,1,Presenting
+Global,Data Engineering and Data Warehousing,2016,,Collecting
+Global,Data Presentation,2016,8,Presenting
+Global,Database Management and Software,2016,,Collecting
+Global,Perl/Python/Ruby,2016,,Processing
+Global,Statistical Analysis and Data Mining,2016,2,Processing
+Global,Storage Systems and Management,2016,10,Collecting
+Global,User Interface Design,2016,5,Presenting
+Global,Web Architecture and Development Framework,2016,3,Presenting
+India,Algorithm Design,2016,6,Processing
+India,Business Intelligence,2016,,Presenting
+India,Cloud and Distributed Computing,2016,1,Presenting
+India,Data Engineering and Data Warehousing,2016,,Collecting
+India,Data Presentation,2016,,Presenting
+India,Perl/Python/Ruby,2016,,Processing
+India,Statistical Analysis and Data Mining,2016,5,Processing
+India,Storage Systems and Management,2016,4,Collecting
+India,User Interface Design,2016,2,Presenting
+India,Web Architecture and Development Framework,2016,3,Presenting
+Ireland,Algorithm Design,2016,,Processing
+Ireland,Business Intelligence,2016,,Presenting
+Ireland,Cloud and Distributed Computing,2016,1,Presenting
+Ireland,Data Engineering and Data Warehousing,2016,,Collecting
+Ireland,Data Presentation,2016,,Presenting
+Ireland,Database Management and Software,2016,,Collecting
+Ireland,Perl/Python/Ruby,2016,,Processing
+Ireland,Statistical Analysis and Data Mining,2016,2,Processing
+Ireland,User Interface Design,2016,,Presenting
+Ireland,Web Architecture and Development Framework,2016,3,Presenting
+Netherlands,Algorithm Design,2016,,Processing
+Netherlands,Business Intelligence,2016,,Presenting
+Netherlands,Data Engineering and Data Warehousing,2016,4,Collecting
+Netherlands,Data Presentation,2016,,Presenting
+Netherlands,Database Management and Software,2016,,Collecting
+Netherlands,Perl/Python/Ruby,2016,,Processing
+Netherlands,Statistical Analysis and Data Mining,2016,1,Processing
+Netherlands,Storage Systems and Management,2016,,Collecting
+Netherlands,Web Architecture and Development Framework,2016,,Presenting
+Singapore,Algorithm Design,2016,7,Processing
+Singapore,Cloud and Distributed Computing,2016,1,Presenting
+Singapore,Data Engineering and Data Warehousing,2016,,Collecting
+Singapore,Perl/Python/Ruby,2016,,Processing
+Singapore,Statistical Analysis and Data Mining,2016,4,Processing
+Singapore,Storage Systems and Management,2016,10,Collecting
+Singapore,User Interface Design,2016,,Presenting
+Singapore,Web Architecture and Development Framework,2016,,Presenting
+South Africa,Business Intelligence,2016,,Presenting
+South Africa,Data Engineering and Data Warehousing,2016,,Collecting
+South Africa,Database Management and Software,2016,,Collecting
+South Africa,Perl/Python/Ruby,2016,5,Processing
+South Africa,Statistical Analysis and Data Mining,2016,1,Processing
+South Africa,Storage Systems and Management,2016,,Collecting
+South Africa,User Interface Design,2016,6,Presenting
+South Africa,Web Architecture and Development Framework,2016,8,Presenting
+United Arab Emirates,Algorithm Design,2016,3,Processing
+United Arab Emirates,Data Engineering and Data Warehousing,2016,,Collecting
+United Arab Emirates,Database and Direct Marketing,2016,,Collecting
+United Arab Emirates,Statistical Analysis and Data Mining,2016,1,Processing
+United Arab Emirates,Storage Systems and Management,2016,,Collecting
+United Arab Emirates,User Interface Design,2016,7,Presenting
+United Arab Emirates,Web Architecture and Development Framework,2016,4,Presenting
+United Kingdom,Algorithm Design,2016,,Processing
+United Kingdom,Business Intelligence,2016,,Presenting
+United Kingdom,Data Engineering and Data Warehousing,2016,10,Collecting
+United Kingdom,Data Presentation,2016,9,Presenting
+United Kingdom,Database Management and Software,2016,,Collecting
+United Kingdom,Perl/Python/Ruby,2016,6,Processing
+United Kingdom,Statistical Analysis and Data Mining,2016,1,Processing
+United Kingdom,Storage Systems and Management,2016,,Collecting
+United Kingdom,User Interface Design,2016,,Presenting
+United Kingdom,Web Architecture and Development Framework,2016,4,Presenting
+United States,Algorithm Design,2016,9,Processing
+United States,Business Intelligence,2016,,Presenting
+United States,Cloud and Distributed Computing,2016,1,Presenting
+United States,Data Engineering and Data Warehousing,2016,,Collecting
+United States,Perl/Python/Ruby,2016,,Processing
+United States,Statistical Analysis and Data Mining,2016,2,Processing
+United States,Storage Systems and Management,2016,4,Collecting
+United States,User Interface Design,2016,5,Presenting
+United States,Web Architecture and Development Framework,2016,8,Presenting
